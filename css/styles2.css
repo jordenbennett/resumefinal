@@ -1,0 +1,45 @@
+li 
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: darkblue;
+    text-align: left;
+}
+
+.underline
+{
+    text-decoration:underline ;
+}
+
+.italics
+{
+    font-style: italic;
+
+}
+
+body
+{
+    background-color: honeydew;
+}
+
+.background
+{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: gainsboro;
+}
+
+.graphtitle:hover {
+    font-style: italic;
+    text-shadow: 2px 2px bisque;
+    color: red;
+  }
+
+  title
+  {
+font-size: x-large;
+font-style: italic;
+  }
