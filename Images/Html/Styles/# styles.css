@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: red;
+    background-color: lightskyblue;
+}
+
+p { 
+    font-size: 40px;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    color: darkcyan;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#education {
+    background-color: #ccc;
+}
+
+a:hover {
+    font-size: 30px;
+}
+
+a:visited {
+    color: red;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}

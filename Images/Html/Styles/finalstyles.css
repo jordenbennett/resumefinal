@@ -1,0 +1,39 @@
+body  
+{
+    background-color: aquamarine;
+
+}
+li
+{
+    color: rgb(255, 0, 0);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box1
+{
+    display: inline-block;
+    box-sizing: border-box;
+    border: black dotted;
+    background-color: aliceblue;
+    padding: 5px
+}
+
+.tbcenter
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
